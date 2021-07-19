@@ -2,9 +2,10 @@
 
 ### A Newsletter signup page made using *expressjs* and *Mailchimp* API.
 
-> **Hosted on** : https://shubham-techie-newsletter.herokuapp.com/
+> **Hosted on heroku** : https://shubham-techie-newsletter.herokuapp.com/
 
 
+![image](https://user-images.githubusercontent.com/85562020/126175897-d035486f-8bed-42f8-b93e-3c38dc66d794.png)
 
 ### Want to run on your local computer -> **follow below steps** :
 > + Download/clone the app and unzip (if downloaded). 
